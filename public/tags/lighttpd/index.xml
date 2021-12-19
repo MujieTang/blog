@@ -17,16 +17,7 @@
       <pubDate>Thu, 25 Nov 2021 01:37:56 +0800</pubDate>
       
       <guid>http://localhost:1313/post/hugo-deploy/</guid>
-      <description>1.Install hugo 1 2 3 4 5 6 7 8 9 $ export HUGO_VERSION=0.70.0 $ wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz $ tar -zxvf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz $ chmod +x hugo $ cp hugo /usr/local/bin #2.Create site 1 $ hugo new site blog blog目录结构: ├── archetypes #网站内容类型 ├── config.toml #网站主配置文件 ├</description>
-    </item>
-    
-    <item>
-      <title>使用Hugo快速搭建静态站点</title>
-      <link>http://localhost:1313/post/content_post_setup-hugo-site/</link>
-      <pubDate>Wed, 05 Aug 2020 10:03:21 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/content_post_setup-hugo-site/</guid>
-      <description>1. 下载hugo 1 2 3 4 5 6 7 8 9 $ export HUGO_VERSION=0.70.0 $ wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz $ tar -zxvf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz $ chmod +x hugo $ cp hugo /usr/local/bin 2. 创建站点 1 $ hugo new site blog blog目录结构: ├── archetypes #网站内容类型 ├── config.toml #</description>
+      <description>1.Install hugo 1 2 3 4 5 6 7 8 9 $ export HUGO_VERSION=0.70.0 $ wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz $ tar -zxvf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz $ chmod +x hugo $ cp hugo /usr/local/bin 2.Create site 1 $ hugo new site blog blog目录结构: ├── archetypes #网站内容类型 ├── config.toml #网站主配置文件 ├</description>
     </item>
     
   </channel>
